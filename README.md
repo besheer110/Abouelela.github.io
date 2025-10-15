@@ -9,8 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ourahoumohamed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ourahoumohamed7" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-ourahou-01936021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ourahou" height="30" width="40" /></a>
-<a href="https://fb.com/mõhâmęd ōūræhôu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mõhâmęd ōūræhôu" height="30" width="40" /></a>
-<a href="https://instagram.com/meedo7436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meedo7436" height="30" width="40" /></a>
-</p>
+<a href="https://https://www.linkedin.com/in/mohamed-abouelela-3b45461ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ourahou" height="30" width="40" /></a>
+
 
